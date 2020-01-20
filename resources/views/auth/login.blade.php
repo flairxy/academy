@@ -34,7 +34,8 @@
                         for="remember-me">Remember Me</label>
                 </div>
                 <div>
-                    <a style="text-decoration:none" href="{{ route('password.request') }}" class="cl1">Forgot password?</a>
+                    <a style="text-decoration:none" href="{{ route('password.request') }}" class="cl1">Forgot
+                        password?</a>
                     <div class="gaps-2x"></div>
                 </div>
             </div>
